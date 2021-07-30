@@ -1,3 +1,4 @@
+//program for creating a pyramid of #'s with a gap between the sides
 #include <cs50.h>
 #include <stdio.h>
 
