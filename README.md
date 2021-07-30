@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dslattery3
 - 👀 I’m interested in starting a new career in the world of technology
-- 🌱 I’m currently learning using online resources such as Udemy and CS50
+- 🌱 This is my work from my auditing of CS50
 - 💞️ I’m looking to collaborate on any entry level problems in order to build more confidence and develop my skills
 
 <!---
